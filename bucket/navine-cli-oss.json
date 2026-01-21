@@ -6,7 +6,7 @@
 
   "url": "https://github.com/NavineDevs/navine-cli-oss/releases/download/os/navine-cli-oss.zip",
 
-  "bin": "navine-cli-oss.cmd",
+  "bin": "navine-cli-oss",
 
   "depends": [
     "git",
