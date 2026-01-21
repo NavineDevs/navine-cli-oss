@@ -3,7 +3,7 @@
   "description": "Navine CLI OS (extensionless launcher + apps)",
   "homepage": "https://github.com/NavineDevs/navine-cli-os",
   "license": "MIT",
-  "url": "https://github.com/NavineDevs/navine-cli-os/releases/os/navine-cli-os.zip",
+  "url": "https://github.com/NavineDevs/navine-cli-os/releases/download/os/navine-cli-os.zip",
   "hash": "SHA256",
   "bin": [
     "navine"
