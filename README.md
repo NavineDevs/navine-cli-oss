@@ -1,7 +1,8 @@
 # Install git
 ```Windows
-scoop bucket add nani https://github.com/NavineDevs/navine-cli-oss
+scoop bucket add navine-cli-oss https://github.com/NavineDevs/navine-cli-oss
 scoop install navine-cli-oss
+scoop install jid
 navine-cli-oss
 ```
 
