@@ -22,5 +22,5 @@ navine-cli-oss
 ```
 # FIleman
 ```Windows
-cd /c/users/<username>/location
+cd /c/users/<username>/downloads
 ```
