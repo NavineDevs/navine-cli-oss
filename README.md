@@ -20,3 +20,7 @@ scoop update
 scoop install navine-cli-oss
 navine-cli-oss
 ```
+# FIleman
+```Windows
+cd /c/users/<username>/location
+```
